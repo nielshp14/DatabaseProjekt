@@ -1,0 +1,21 @@
+{
+  "name": "dataandapi2.1",
+  "version": "1.0.0",
+  "description": "This is the data selfie app by Joey Lee.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "selfie",
+    "test"
+  ],
+  "author": "NIels Skarsholm Risager",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "espress": "^0.0.0",
+    "express": "^4.17.3",
+    "nedb": "^1.8.0"
+  }
+}
